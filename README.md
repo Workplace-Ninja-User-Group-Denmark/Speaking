@@ -32,3 +32,7 @@ This repository contains practical speaker information and a template you can us
 - Use **Share screen** and select the specific window (slides / demo window) when possible.
 - If you demo anything, have it open and ready before you go live.
 - Consider increasing font size for demos so it’s readable for attendees.
+
+### Timekeeping
+- Keep an eye on time and aim to leave space for **Q&A** (if applicable).
+- If you want us to help with time signals, tell us and we’ll do it via chat.
