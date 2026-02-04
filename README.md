@@ -42,3 +42,22 @@ This repository contains practical speaker information and a template you can us
 ## What We Need From You
 
 Please provide your speaker info using the template below.
+
+## Day-of-Event Checklist (Quick)
+
+- Join Teams **10+ minutes early**
+- Verify:
+  - Mic works and no echo
+  - Camera framing (optional, but recommended)
+  - Correct screen/window selected for sharing
+  - Notifications muted (Teams/Outlook)
+- Have slides or demo windows opened and ready
+- Keep a glass of water nearby
+
+---
+
+## Need Help?
+
+If you are missing the Teams invite or have questions about timing, format, or anything practical, please reach out to the organizers via the contact info in this repo (or the person who invited you).
+
+Thanks again — looking forward to your session!
