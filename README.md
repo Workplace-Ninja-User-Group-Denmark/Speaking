@@ -14,3 +14,7 @@ This repository contains practical speaker information and a template you can us
 - **Meeting cadence:** **2nd Friday of every month** (with a few exceptions, because of holidays etc.)
 - You should already have received the **Teams meeting invite** that covers the full event.
   - If you **did not** receive the Teams invite, please reach out to the organizers so we can forward it.
+
+---
+
+## Speaker Expectations
