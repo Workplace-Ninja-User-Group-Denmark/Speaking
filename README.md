@@ -27,3 +27,8 @@ This repository contains practical speaker information and a template you can us
 - Use a **headset** (or a decent microphone) to avoid echo.
 - If possible, use a **stable wired connection** (or strong Wi-Fi).
 - Close heavy apps and avoid background downloads right before your session.
+
+### Screen sharing
+- Use **Share screen** and select the specific window (slides / demo window) when possible.
+- If you demo anything, have it open and ready before you go live.
+- Consider increasing font size for demos so it’s readable for attendees.
