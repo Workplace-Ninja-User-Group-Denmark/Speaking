@@ -1,4 +1,4 @@
-![Workplace Ninjas User Group Denmark logo]([https://wpninjas.dk/assets/wpninjas-logo-Bv-hhqm_.png](https://github.com/Workplace-Ninja-User-Group-Denmark/Speaking/blob/main/assets/wpninjasdk_logo_medium.jpg))
+![WPNinjasDK logo](assets/wpninjasdk_logo_medium.jpg)
 
 # Workplace Ninjas User Group Denmark – Speaker Info
 
