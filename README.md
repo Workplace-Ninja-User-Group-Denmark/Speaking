@@ -1,6 +1,5 @@
-# Speaking
-Information about speaking at Workplace Ninjas Denmark
+# Workplace Ninjas User Group Denmark – Speaker Info
 
+Welcome, and thanks for speaking at **Workplace Ninjas User Group Denmark (WPNinjasDK)**.
 
-## Template for PowerPoint
-Here you will find the template
+This repository contains practical speaker information and a template you can use to share everything we need (bio, session details, links, etc.).
