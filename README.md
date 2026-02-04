@@ -18,3 +18,7 @@ This repository contains practical speaker information and a template you can us
 ---
 
 ## Speaker Expectations
+
+### Be online early
+- Please join the Teams meeting **at least 10-15 minutes before your session**.
+- This gives us time for a quick sound/video check and a smooth handover from the previous speaker.
