@@ -42,6 +42,7 @@ This repository contains practical speaker information and a template you can us
 ## What We Need From You
 
 Please provide your speaker info using the template below.
+- /Workplace%20Ninja%20DK%20template.pptx
 
 ## Day-of-Event Checklist (Quick)
 
