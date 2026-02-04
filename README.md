@@ -22,3 +22,8 @@ This repository contains practical speaker information and a template you can us
 ### Be online early
 - Please join the Teams meeting **at least 10-15 minutes before your session**.
 - This gives us time for a quick sound/video check and a smooth handover from the previous speaker.
+
+### Audio & video recommendations
+- Use a **headset** (or a decent microphone) to avoid echo.
+- If possible, use a **stable wired connection** (or strong Wi-Fi).
+- Close heavy apps and avoid background downloads right before your session.
