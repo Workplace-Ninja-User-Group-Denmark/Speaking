@@ -1,3 +1,5 @@
+![Workplace Ninjas User Group Denmark logo](https://wpninjas.dk/assets/wpninjas-logo-Bv-hhqm_.png)
+
 # Workplace Ninjas User Group Denmark – Speaker Info
 
 Welcome, and thanks for speaking at **Workplace Ninjas User Group Denmark (WPNinjasDK)**.
