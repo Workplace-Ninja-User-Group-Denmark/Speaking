@@ -36,3 +36,9 @@ This repository contains practical speaker information and a template you can us
 ### Timekeeping
 - Keep an eye on time and aim to leave space for **Q&A** (if applicable).
 - If you want us to help with time signals, tell us and we’ll do it via chat.
+
+---
+
+## What We Need From You
+
+Please provide your speaker info using the template below.
