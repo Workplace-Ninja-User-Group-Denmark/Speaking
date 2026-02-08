@@ -4,7 +4,7 @@
 
 Welcome, and thanks for speaking at **Workplace Ninjas User Group Denmark (WPNinjasDK)**.
 
-This repository contains practical speaker information and a template you can use to share everything we need (bio, session details, links, etc.).
+This repository contains practical speaker information and a template you can use when delivering your session with us.
 
 ---
 
