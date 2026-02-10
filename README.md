@@ -6,7 +6,7 @@ Welcome, and thanks for speaking at **Workplace Ninjas User Group Denmark (WPNin
 
 This repository contains practical speaker information and a template you can use when delivering your session with us.
 
----
+
 
 ## Event Format (Important)
 
