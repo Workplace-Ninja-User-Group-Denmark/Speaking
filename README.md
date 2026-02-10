@@ -15,7 +15,7 @@ This repository contains practical speaker information and a template you can us
 - You should already have received the **Teams meeting invite** that covers the full event.
   - If you **did not** receive the Teams invite, please reach out to the organizers so we can forward it.
 
----
+
 
 ## Speaker Expectations
 
@@ -37,7 +37,7 @@ This repository contains practical speaker information and a template you can us
 - Keep an eye on time and aim to leave space for **Q&A** (if applicable).
 - If you want us to help with time signals, tell us and we’ll do it via chat.
 
----
+--
 
 ## What We Need From You
 
