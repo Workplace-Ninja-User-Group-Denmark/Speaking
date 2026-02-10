@@ -37,7 +37,7 @@ This repository contains practical speaker information and a template you can us
 - Keep an eye on time and aim to leave space for **Q&A** (if applicable).
 - If you want us to help with time signals, tell us and we’ll do it via chat.
 
---
+
 
 ## What We Need From You
 
@@ -55,7 +55,6 @@ Please use our template provided in this folder, where you can download from:
 - Have slides or demo windows opened and ready
 - Keep a glass of water nearby
 
----
 
 ## Need Help?
 
